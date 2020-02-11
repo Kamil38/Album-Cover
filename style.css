@@ -1,0 +1,22 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.albumCover {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.albumCover2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.albumCover3 {
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
